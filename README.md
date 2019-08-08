@@ -1,4 +1,4 @@
-# temporal_wastewater - Note code not uploaded yet...will be once paper in submitted to a preprint server =)
+# temporal_wastewater - Note code not uploaded yet...will be once paper is submitted to a preprint server =)
 Data and python and ipython notebooks for the analysis of the wastewater from three buildings. After XCMS processing you should have a nice .mgf file for MS2 in silico metabolite mapping and a .csv file for metabolite mass look up as well as the following analysis:
 Notebook can be (and frankly should be) used in the following order:
   1) data_processing.ipynb
