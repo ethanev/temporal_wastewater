@@ -1,0 +1,168 @@
+Bracket Type=4,,,,,,,,
+Sample Type,File Name,Sample ID,Path,Instrument Method,Position,Inj Vol,Level,Sample Name
+Blank,mtab_alm_UW_072718_01,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018,R:A1,10,,"MQ Blank pos (HSST3#5, probe 3, 07.27.18)"
+Blank,mtab_alm_UW_072718_02,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A1,10,,MQ Blank neg (batch 1)
+Unknown,mtab_alm_UW_072718_03,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018,R:A2,10,,alm mix in MQ pos
+Unknown,mtab_alm_UW_072718_04,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A2,10,,alm mix in MQ neg
+Unknown,mtab_alm_UW_072718_05,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018,R:A3,10,,UW pooled pos condition
+Unknown,mtab_alm_UW_072718_06,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg condition
+Unknown,mtab_alm_UW_072718_07,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018,R:A2,10,,alm mix in MQ pos (new vial)
+Unknown,mtab_alm_UW_072718_08,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A2,10,,alm mix in MQ neg
+Unknown,mtab_alm_UW_072718_09,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018,R:A2,10,,alm mix in MQ pos 
+Unknown,mtab_alm_UW_072718_10,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg condition
+Unknown,mtab_alm_UW_072718_11,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg condition
+Unknown,mtab_alm_UW_072718_12,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg condition
+Unknown,mtab_alm_UW_072718_13,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg condition
+Unknown,mtab_alm_UW_072718_14,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg condition
+Unknown,mtab_alm_UW_072718_15,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg 
+Unknown,mtab_alm_UW_072718_16,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A5,10,,UW D20B61 neg
+Unknown,mtab_alm_UW_072718_17,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A6,10,,UW O4B61 neg
+Unknown,mtab_alm_UW_072718_18,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A7,10,,UW O2B84 neg
+Unknown,mtab_alm_UW_072718_19,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A8,10,,UW D6B84 neg
+Unknown,mtab_alm_UW_072718_20,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A9,10,,UW O4B7 neg
+Unknown,mtab_alm_UW_072718_21,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:B1,10,,UW N4B89 neg
+Unknown,mtab_alm_UW_072718_22,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg 
+Unknown,mtab_alm_UW_072718_23,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:B2,10,,UW D6B61 neg
+Unknown,mtab_alm_UW_072718_24,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:B3,10,,UW N8B61 neg
+Unknown,mtab_alm_UW_072718_25,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:B4,10,,UW O5B61 neg
+Unknown,mtab_alm_UW_072718_26,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:B5,10,,UW N4B7 neg
+Unknown,mtab_alm_UW_072718_27,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:B6,10,,UW O4B84 neg
+Unknown,mtab_alm_UW_072718_28,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:B7,10,,UW D20B7 neg
+Unknown,mtab_alm_UW_072718_29,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg 
+Unknown,mtab_alm_UW_072718_30,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:B8,10,,UW O5B7 neg 
+Unknown,mtab_alm_UW_072718_31,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:B9,10,,UW O6B61 neg 
+Unknown,mtab_alm_UW_072718_32,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:C1,10,,UW O24B61 neg 
+Unknown,mtab_alm_UW_072718_33,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:C2,10,,UW N11B84 neg 
+Unknown,mtab_alm_UW_072718_34,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:C3,10,,UW N22B84 neg 
+Unknown,mtab_alm_UW_072718_35,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:C4,10,,UW D16B61 neg 
+Unknown,mtab_alm_UW_072718_36,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg 
+Unknown,mtab_alm_UW_072718_37,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:C5,10,,UW N4B7 neg 
+Unknown,mtab_alm_UW_072718_38,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:C6,10,,UW O14B61 neg 
+Unknown,mtab_alm_UW_072718_39,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:C7,10,,UW D2B84 neg 
+Unknown,mtab_alm_UW_072718_40,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:C8,10,,UW O20B61 neg 
+Unknown,mtab_alm_UW_072718_41,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:C9,10,,UW N22B61 neg 
+Unknown,mtab_alm_UW_072718_42,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:D1,10,,UW D60B84 neg 
+Unknown,mtab_alm_UW_072718_43,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg 
+Unknown,mtab_alm_UW_072718_44,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:D2,10,,UW O19B84 neg 
+Unknown,mtab_alm_UW_072718_45,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:D3,10,,UW N4B84 neg 
+Unknown,mtab_alm_UW_072718_46,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:D4,10,,UW O5B84 neg 
+Unknown,mtab_alm_UW_072718_47,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:D5,10,,UW O19B61 neg 
+Unknown,mtab_alm_UW_072718_48,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:D6,10,,UW O11B61 neg 
+Unknown,mtab_alm_UW_072718_49,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:D7,10,,UW D16B84 neg 
+Unknown,mtab_alm_UW_072718_50,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg 
+Unknown,mtab_alm_UW_072718_51,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:D8,10,,UW O23B84 neg 
+Unknown,mtab_alm_UW_072718_52,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:D9,10,,UW N4B61 neg 
+Unknown,mtab_alm_UW_072718_53,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:E1,10,,UW O25B84 neg 
+Unknown,mtab_alm_UW_072718_54,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:E2,10,,UW N15B84 neg 
+Unknown,mtab_alm_UW_072718_55,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:E3,10,,UW O18B84 CTL neg 
+Unknown,mtab_alm_UW_072718_56,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg 
+Unknown,mtab_alm_UW_072718_57,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:E4,10,,UW O21B7 neg 
+Unknown,mtab_alm_UW_072718_58,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:E5,10,,UW D13B61 neg 
+Unknown,mtab_alm_UW_072718_59,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:E6,10,,UW O14B61 CTL neg 
+Unknown,mtab_alm_UW_072718_60,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:E7,10,,UW O11B7 neg 
+Unknown,mtab_alm_UW_072718_61,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:E8,10,,UW O13B7 neg 
+Unknown,mtab_alm_UW_072718_62,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg 
+Unknown,mtab_alm_UW_072718_63,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:E9,10,,UW D9B61 neg 
+Unknown,mtab_alm_UW_072718_64,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:F1,10,,UW O4B61 neg 
+Unknown,mtab_alm_UW_072718_65,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:F2,10,,UW N11B61 neg 
+Unknown,mtab_alm_UW_072718_66,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:F3,10,,UW D2B7 neg 
+Unknown,mtab_alm_UW_072718_67,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:F4,10,,UW O16B84 neg 
+Unknown,mtab_alm_UW_072718_68,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg 
+Unknown,mtab_alm_UW_072718_69,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:F5,10,,UW O23B7 neg 
+Unknown,mtab_alm_UW_072718_70,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:F6,10,,UW O13B61 neg 
+Unknown,mtab_alm_UW_072718_71,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:F7,10,,UW O20B84 neg 
+Unknown,mtab_alm_UW_072718_72,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:F8,10,,UW O11B84-NO-CEN neg 
+Unknown,mtab_alm_UW_072718_73,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg 
+Unknown,mtab_alm_UW_072718_74,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A4,10,,UW pooled with spike neg 
+Blank,mtab_alm_UW_072718_75,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A1,10,,MQ Blank neg 
+Blank,mtab_alm_UW_072718_76,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A1,10,,MQ Blank neg 
+Blank,mtab_alm_UW_072718_77,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A1,10,,"MQ Blank neg (batch 2, 07.30.18)"
+Blank,mtab_alm_UW_072718_78,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A1,10,,MQ Blank neg
+Blank,mtab_alm_UW_072718_79,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A1,10,,MQ Blank neg
+Unknown,mtab_alm_UW_072718_80,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018,R:A2,10,,alm mix in MQ pos
+Unknown,mtab_alm_UW_072718_81,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A2,10,,alm mix in MQ neg
+Unknown,mtab_alm_UW_072718_82,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg condition
+Unknown,mtab_alm_UW_072718_83,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg condition
+Unknown,mtab_alm_UW_072718_84,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg condition
+Unknown,mtab_alm_UW_072718_85,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg condition
+Unknown,mtab_alm_UW_072718_86,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg condition
+Unknown,mtab_alm_UW_072718_87,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg condition
+Unknown,mtab_alm_UW_072718_88,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg 
+Unknown,mtab_alm_UW_072718_89,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A5,10,,UW O11B7-CTL neg
+Unknown,mtab_alm_UW_072718_90,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A6,10,,UW D2B7 neg
+Unknown,mtab_alm_UW_072718_91,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A7,10,,UW N4B61 neg
+Unknown,mtab_alm_UW_072718_92,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A8,10,,UW N8B7 neg
+Unknown,mtab_alm_UW_072718_93,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A9,10,,UW O6B84 neg
+Unknown,mtab_alm_UW_072718_94,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:B1,10,,UW O20B84 neg
+Unknown,mtab_alm_UW_072718_95,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg 
+Unknown,mtab_alm_UW_072718_96,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:B2,10,,UW O3B7 neg
+Unknown,mtab_alm_UW_072718_97,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:B3,10,,UW O20B7 neg
+Unknown,mtab_alm_UW_072718_98,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:B4,10,,UW D2B61 neg
+Unknown,mtab_alm_UW_072718_99,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:B5,10,,UW O12B61neg
+Unknown,mtab_alm_UW_072718_100,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:B6,10,,UW D2B61 neg
+Unknown,mtab_alm_UW_072718_101,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:B7,10,,UW D20B7 neg
+Unknown,mtab_alm_UW_072718_102,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg 
+Unknown,mtab_alm_UW_072718_103,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:B8,10,,UW O18B7 neg 
+Unknown,mtab_alm_UW_072718_104,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:B9,10,,UW N15B61-EIA neg 
+Unknown,mtab_alm_UW_072718_105,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:C1,10,,UW O21B84 neg 
+Unknown,mtab_alm_UW_072718_106,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:C2,10,,UW O14B7-CTL neg 
+Unknown,mtab_alm_UW_072718_107,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:C3,10,,UW N18B84 neg 
+Unknown,mtab_alm_UW_072718_108,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:C4,10,,UW O18B84 neg 
+Unknown,mtab_alm_UW_072718_109,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg 
+Unknown,mtab_alm_UW_072718_110,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:C5,10,,UW O24B84 neg 
+Unknown,mtab_alm_UW_072718_111,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:C6,10,,UW O14B7 neg 
+Unknown,mtab_alm_UW_072718_112,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:C7,10,,UW O11B84 neg 
+Unknown,mtab_alm_UW_072718_113,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:C8,10,,UW O21B61 neg 
+Unknown,mtab_alm_UW_072718_114,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:C9,10,,UW O18B7 neg 
+Unknown,mtab_alm_UW_072718_115,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:D1,10,,UW O18B61 neg 
+Unknown,mtab_alm_UW_072718_116,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg 
+Unknown,mtab_alm_UW_072718_117,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:D2,10,,UW O18B84_2 neg 
+Unknown,mtab_alm_UW_072718_118,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:D3,10,,UW D9B7 neg 
+Unknown,mtab_alm_UW_072718_119,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:D4,10,,UW O21B7 neg 
+Unknown,mtab_alm_UW_072718_120,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:D5,10,,UW D6B7 neg 
+Unknown,mtab_alm_UW_072718_121,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:D6,10,,UW O16B7 neg 
+Unknown,mtab_alm_UW_072718_122,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:D7,10,,UW O4B84 neg 
+Unknown,mtab_alm_UW_072718_123,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg 
+Unknown,mtab_alm_UW_072718_124,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:D8,10,,UW O11B61-CTL neg 
+Unknown,mtab_alm_UW_072718_125,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:D9,10,,UW O6B7 neg 
+Unknown,mtab_alm_UW_072718_126,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:E1,10,,UW O18B61 neg 
+Unknown,mtab_alm_UW_072718_127,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:E2,10,,UW D13B7 neg 
+Unknown,mtab_alm_UW_072718_128,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:E3,10,,UW O23B61 neg 
+Unknown,mtab_alm_UW_072718_129,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg 
+Unknown,mtab_alm_UW_072718_130,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:E4,10,,UW D20B61 neg 
+Unknown,mtab_alm_UW_072718_131,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:E5,10,,UW D9B84 neg 
+Unknown,mtab_alm_UW_072718_132,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:E6,10,,UW N29B7 neg 
+Unknown,mtab_alm_UW_072718_133,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:E7,10,,UW D16B7 neg 
+Unknown,mtab_alm_UW_072718_134,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:E8,10,,UW N18B61 neg 
+Unknown,mtab_alm_UW_072718_135,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg 
+Unknown,mtab_alm_UW_072718_136,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:E9,10,,UW N22B7 neg 
+Unknown,mtab_alm_UW_072718_137,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:F1,10,,UW O4B7 neg 
+Unknown,mtab_alm_UW_072718_138,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:F2,10,,UW O19B7 neg 
+Unknown,mtab_alm_UW_072718_139,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:F3,10,,UW O21B84 neg 
+Unknown,mtab_alm_UW_072718_140,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:F4,10,,UW O25B61 neg 
+Unknown,mtab_alm_UW_072718_141,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg 
+Unknown,mtab_alm_UW_072718_142,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:F5,10,,UW O3B84 neg 
+Unknown,mtab_alm_UW_072718_143,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:F6,10,,UW O21B61 neg 
+Unknown,mtab_alm_UW_072718_144,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:F7,10,,UW D13B84 neg 
+Unknown,mtab_alm_UW_072718_145,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:F8,10,,UW O3B61 neg 
+Unknown,mtab_alm_UW_072718_146,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg 
+Unknown,mtab_alm_UW_072718_147,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A4,10,,UW pooled with spike neg 
+Blank,mtab_alm_UW_072718_148,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A1,10,,MQ Blank neg 
+Blank,mtab_alm_UW_072718_149,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A1,10,,MQ Blank neg 
+Blank,mtab_alm_UW_072718_150,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A1,10,,"MQ Blank neg (07.31.18 rerun some samples, new aliquot)"
+Blank,mtab_alm_UW_072718_151,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A1,10,,MQ Blank neg
+Unknown,mtab_alm_UW_072718_152,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg condition
+Unknown,mtab_alm_UW_072718_153,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg condition
+Unknown,mtab_alm_UW_072718_154,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg condition
+Unknown,mtab_alm_UW_072718_155,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg condition
+Unknown,mtab_alm_UW_072718_156,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg condition
+Unknown,mtab_alm_UW_072718_157,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg 
+Unknown,mtab_alm_UW_072718_158,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,G:A1,10,,UW O11B7-CTL neg redo
+Unknown,mtab_alm_UW_072718_159,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,G:A2,10,,UW N15B61-EIA neg redo
+Unknown,mtab_alm_UW_072718_160,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,G:A3,10,,UW O14B7-CTL neg redo
+Unknown,mtab_alm_UW_072718_161,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,G:A4,10,,UW O11B61-CTL neg redo
+Unknown,mtab_alm_UW_072718_162,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,G:A5,10,,UW O14B61-CTL neg redo
+Unknown,mtab_alm_UW_072718_163,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A3,10,,UW pooled neg 
+Unknown,mtab_alm_UW_072718_164,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A4,10,,UW pooled with spike neg 
+Blank,mtab_alm_UW_072718_165,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A1,10,,MQ Blank neg
+Blank,mtab_alm_UW_072718_166,R:A1,C:\Xcalibur\Data\Alm\2018_0727 Siavash samples,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018,R:A1,10,,MQ Blank neg
